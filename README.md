@@ -6,4 +6,6 @@ Meu nome é Maria Eduarda Bueno
 - Estou aprendendo a usar o [JavaScript](https://www.JavaScript.com.br)
 - Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
 
-![](https://media1.tenor.com/m/TYRJ89qIrfIAAAAC/ni%C3%B1o-baila-cowboy.gif)
+
+/>![image](https://github.com/MaBueno9/MaBueno9/assets/173391433/a6f934e9-8d10-4f7b-a9d2-becf94657019)
+
